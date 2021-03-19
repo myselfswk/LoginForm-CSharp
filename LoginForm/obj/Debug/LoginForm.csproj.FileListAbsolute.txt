@@ -1,0 +1,10 @@
+F:\VPL Assignments\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+F:\VPL Assignments\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+F:\VPL Assignments\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+F:\VPL Assignments\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+F:\VPL Assignments\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+F:\VPL Assignments\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+F:\VPL Assignments\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+F:\VPL Assignments\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+F:\VPL Assignments\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+F:\VPL Assignments\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
